@@ -15,4 +15,4 @@ int count = 0;
        
     }
     
-    Console.Write(String.Join(" ", OutArray));
+    Console.Write(String.Join(" ", OutArray)); 
